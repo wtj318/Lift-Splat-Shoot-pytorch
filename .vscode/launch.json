@@ -37,7 +37,7 @@
             "args": [
                 "viz_model_preds",
                 "mini",
-                "--modelf=/home/wtj/workspace/12_Bev/lift-splat-shoot/efficientnet-b0-355c32eb.pth",
+                "--modelf=/home/wtj/workspace/12_Bev/Lift-Splat-Shoot-pytorch/efficientnet-b0-355c32eb.pth",
                 "--dataroot=/home/wtj/data/nuScenes/",
                 "--map_folder=/home/wtj/data/nuScenes/mini",
                 "--gpuid=0",
